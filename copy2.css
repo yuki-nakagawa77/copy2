@@ -157,3 +157,16 @@ header{
   position: relative;
   top:7px;
 }
+
+footer img{
+  width: 125px;
+}
+
+footer p{
+  color:#b3aeb5;
+  font-size: 12px;
+}
+
+footer{
+  padding-top: 30px;
+}
