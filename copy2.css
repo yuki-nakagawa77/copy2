@@ -11,6 +11,10 @@ a {
   text-decoration: none;
 }
 
+.clear{
+  clear: left;
+}
+
 .container{
   width: 100%;
   padding: 0 15px;
@@ -103,7 +107,6 @@ header{
 }
 
 .lesson-wrapper{
-  height: 500px;
   padding-bottom: 80px;
   background-color: #f7f7f7;
   text-align: center;
