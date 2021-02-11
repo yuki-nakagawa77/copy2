@@ -19,6 +19,7 @@ a {
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
+  max-width: 1170px;
 }
 
 .top-wrapper{
@@ -45,6 +46,7 @@ a {
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
+  text-align: center;
 }
 
 .btn:hover{
@@ -91,8 +93,7 @@ header{
 
 .header-right{
   float: right;
-  background-color: rgba(255, 255, 255, 0.3);
-  transition: all 0.5s;
+  margin-right: -25px;
 }
 
 .header-right a{
@@ -100,6 +101,8 @@ header{
   padding: 0 25px;
   color: white;
   display: block;
+  float: left;
+  transition: all 0.5s;
 }
 
 .header-right:hover{
